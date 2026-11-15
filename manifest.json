@@ -1,0 +1,9 @@
+{
+  "id": "pull-dice-log",
+  "name": "Pull Dice Log",
+  "version": "1.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "通过 Google Cloud SSH 只读拉取 SealDice 的实时跑团日志，选择日志与目标文件夹后保存为 txt。",
+  "author": "_yeaz_",
+  "isDesktopOnly": true
+}

@@ -1,0 +1,19 @@
+# 本地配置与认证材料
+data.json
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+# 运行数据与日志
+*.db
+*.db-*
+*.sqlite*
+*.log
+pulled-log/
+染色映射.md
+# 依赖与系统文件
+node_modules/
+.DS_Store
+__MACOSX/
+*.zip
